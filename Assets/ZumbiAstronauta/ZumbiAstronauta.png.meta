@@ -1,0 +1,523 @@
+fileFormatVersion: 2
+guid: 6b37a6149966e0f4282c0b2e527c8b39
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ZumbiAstronauta_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 258
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fef8ce33a9d814182ff34022a39326
+      internalID: -1087131854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZumbiAstronauta_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 258
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cd293f1c8b6334e98c9e886139bf6a
+      internalID: -1210277611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZumbiAstronauta_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 258
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ba503668bb8124dbb13e66c3bd9f01
+      internalID: -1175049608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZumbiAstronauta_3
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 258
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655cb3742b6a8b64491ddd11c798365c
+      internalID: 1690682420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZumbiAstronauta_4
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 258
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d0533d4344b9d498fbb210d3d5b11d
+      internalID: 1297706100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZumbiAstronauta_5
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 258
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c56292216819048b9da16b9a3533fe
+      internalID: -1771522401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZumbiAstronauta_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 130
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471c88021399495468e6e010811416f8
+      internalID: -1738572941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZumbiAstronauta_7
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 130
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bb871451e3c534295a6466de1eb8af
+      internalID: -25509438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZumbiAstronauta_8
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 130
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44054d74166c8b428406e44306ff829
+      internalID: 975525537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZumbiAstronauta_9
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 130
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806b464bf3f48b543b42548f8f401f3e
+      internalID: -1638921344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZumbiAstronauta_10
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 130
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef6a0f846fff6c4cbfba536cec24e64
+      internalID: 1436198133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZumbiAstronauta_11
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 130
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c0d2ec89d8df945872f3a6fcf61972
+      internalID: -212604939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZumbiAstronauta_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ede552e9dbf3f9489ba89e6747e40dd
+      internalID: -18804432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZumbiAstronauta_13
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ffe62a7f60fa34dbf15af0354b00f5
+      internalID: -650346402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZumbiAstronauta_14
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 2
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32915a801d071c74182267a096ae8c05
+      internalID: 454880122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZumbiAstronauta_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1403c984468da4fb7cb7c3f58773b2
+      internalID: 52258511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZumbiAstronauta_16
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23b0e294a6ccdf42b6c790dfa64da53
+      internalID: 1119285731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZumbiAstronauta_17
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 2
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79366fdbc04ceb049a1296eedd494dc9
+      internalID: 104084855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ZumbiAstronauta_0: -1087131854
+      ZumbiAstronauta_1: -1210277611
+      ZumbiAstronauta_10: 1436198133
+      ZumbiAstronauta_11: -212604939
+      ZumbiAstronauta_12: -18804432
+      ZumbiAstronauta_13: -650346402
+      ZumbiAstronauta_14: 454880122
+      ZumbiAstronauta_15: 52258511
+      ZumbiAstronauta_16: 1119285731
+      ZumbiAstronauta_17: 104084855
+      ZumbiAstronauta_2: -1175049608
+      ZumbiAstronauta_3: 1690682420
+      ZumbiAstronauta_4: 1297706100
+      ZumbiAstronauta_5: -1771522401
+      ZumbiAstronauta_6: -1738572941
+      ZumbiAstronauta_7: -25509438
+      ZumbiAstronauta_8: 975525537
+      ZumbiAstronauta_9: -1638921344
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
